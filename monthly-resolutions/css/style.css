@@ -1,8 +1,4 @@
-/* 
-Project Name: Monthly Resolutions
-Client: One Month
-Author: Christopher Castig | @castig
-*/
+
 
 
 /*----------------------------------------------------------------------------- 
@@ -32,17 +28,8 @@ body{
      margin: 0 auto 0 auto;
 
 }
-#header{
-     background-color: lightgray;
-     padding: 50px;
-}
 
-#main{
-     background-color: white;
-     width: 690px;
-     padding: 50px;
-     float: left;
-}
+
 
 #sidebar{
      background-color: white;
@@ -70,6 +57,19 @@ body{
 /*----------------------------------------------------------------------------- 
 03=MAIN  
 -----------------------------------------------------------------------------*/
+#header{
+     background-color: lightgray;
+     padding: 50px;
+}
+
+
+#main{
+     background-color: white;
+     width: 690px;
+     padding: 50px;
+     float: left;
+}
+
 h2{
      font-size:xx-large;
 }
@@ -82,6 +82,8 @@ h2{
      width: 200px;
      height: 200px;
 }
+
+
 
 a{
      color: orange;
